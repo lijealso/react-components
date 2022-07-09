@@ -2,7 +2,7 @@ import React from 'react'
 
 function ComponenteUm() {
     return (
-            <div class="componente">
+            <div className="componente">
                 <p>Componente Um</p>
                 <p>Componente mais simples de React</p>
             </div>
